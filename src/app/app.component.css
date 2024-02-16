@@ -1,0 +1,12 @@
+div{
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Poppins' sans-serif;
+    border-style: dotted;
+    background-color: #E9EA9B;
+}
+
+app-contador{
+    text-align: center;
+    font-size: 30px;
+}
